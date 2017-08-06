@@ -14,4 +14,7 @@
      float: left;
      padding: 15px;
    }
+   .important {
+     color: blue;
+   }
  }
